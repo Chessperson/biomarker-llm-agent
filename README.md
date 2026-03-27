@@ -9,4 +9,4 @@ python test agent.py
 ```
 Output: `{"risks": ["coagulopathy"], "recommendations": ["plasma"]}`
 
-Uses data from [multiomics-synth](Chessperson/multiomics-synth).
+[Multi-Omics Synth](https://github.com/chessperson/multiomics-synth)
